@@ -1,0 +1,16 @@
+# Sensitive files
+master.hash
+passwords.txt
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
